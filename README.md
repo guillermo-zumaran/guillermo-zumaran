@@ -9,7 +9,7 @@ Here's some info about me:
 - 👯 I’m looking to collaborate on any cool open source projects written with web technologies
 - 🤔 I’m looking for help with tips about software design
 - 💬 Ask me about anything web related
-- 📫 How to reach me: [https://www.linkedin.com/in/gzumaranbazan/](url)
+- 📫 How to reach me: [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gzumaranbazan/)
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I really like music
 
