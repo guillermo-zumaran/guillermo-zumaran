@@ -11,5 +11,4 @@ Here's some info about me:
 - 💬 Ask me about anything web related
 - 📫 How to reach me: [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gzumaranbazan/) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:gzumaranbazan@gmail.com)
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I really like music
 
