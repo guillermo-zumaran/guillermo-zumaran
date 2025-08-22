@@ -5,7 +5,7 @@
 Here's some info about me:
 
 - 🔭 I’m currently working as a Software Engineer specialized in web development
-- 🌱 I’m currently learning Python 🐍 and Japanese 🇯🇵
+- 🌱 I’m currently learning Japanese 🇯🇵
 - 👯 I’m looking to collaborate on any cool open source projects written with web technologies
 - 🤔 I’m looking for help with tips about software design
 - 💬 Ask me about anything web related
